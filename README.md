@@ -1,4 +1,4 @@
-# LangChain ReAct Agent with local LLM
+# LangChain Agents: jsonParser + ReAct with local LLM
 
 Проект демонстрирует подход к созданию **интерактивного агента с
 поддержкой рассуждений и инструментов**, работающего полностью на
